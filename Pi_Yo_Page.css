@@ -1,0 +1,96 @@
+
+
+
+
+
+/*--------------------------------------Pi_Yo_Page-----------*/ 
+    ul{
+            list-style-type: none;
+            margin-top: -.5%;
+            margin-bottom: 2%;
+            margin-left: 25%;
+                           
+    }
+    
+    li {
+            display: inline;
+            border: 1px solid #000000;
+            font-family: Futura, Tahoma, sans-serif;
+            color: black;
+            padding: 5px;
+            border-radius: 5px 5px;
+            background-color: #ffffff;
+            
+    }
+
+    .header_image {
+        
+        border: 1px dashed;
+        width: 75%;
+        height: 200px;
+        background: #ededed;
+        margin-left: 12.5%;
+        margin-bottom: 2.5%;
+    }
+    .central_block { 
+        float: left;
+        margin-left: 5%;
+        width: 90%;
+        border: 1px solid;
+    
+    }
+/*----------------------------------ABOUT BLOCK-------------*/
+    #about{
+        border: 1px dashed;
+    float:  left;
+    margin: 2.5%;
+    width: 30%;
+    height: 20%;
+    overflow: hidden;
+    }
+    #about h1 {
+        font-family: fantasy;
+        text-align: center;
+        
+    }
+    .about_p {
+        padding: 0px 15px;
+        width: 90%; 
+        height: %;
+        
+    }
+    
+    /*---------------------------------CENTER PIECE WILLIAM IMAGE-------------*/    
+     .william_img {
+        float: right;
+        margin: 2.5% 5% 2.5% 2.5%;
+        width: 50%;
+        height: 10%;
+        background: #ededed;
+    }
+    
+   
+    /*-----------------------------PERSONAL REFERENCE BLOCK---------------------*/
+    .ref_block {
+        width: 50%;
+        float: right;
+        border:  1px dashed;
+        margin-top: 7.5%;
+        margin-right: 5%; 
+        
+    }
+    .reference_img {
+        float: left;
+        width: 25%;
+        height: 25%;
+        background: #ededed;
+    }
+    .ref_text    {
+        float: right;
+        width: 50%;
+        color: #3399ff;
+        margin-right: 5%;
+        margin-left: 5%;
+            
+    }
+

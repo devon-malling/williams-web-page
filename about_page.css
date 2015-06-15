@@ -1,0 +1,31 @@
+  ul{
+            list-style-type: none;
+            margin-top: -.5%;
+            margin-bottom: 2%;
+            margin-left: 25%;
+                           
+    }
+    
+    li {
+            display: inline;
+            border: 1px solid #000000;
+            font-family: Futura, Tahoma, sans-serif;
+            color: black;
+            padding: 5px;
+            border-radius: 5px 5px;
+            background-color: #ffffff;
+            
+    }
+.header_image {
+        
+        border: 1px dashed;
+        width: 75%;
+        height: 200px;
+        background: #ededed;
+        margin-left: 12.5%;
+        margin-bottom: 2.5%
+}
+
+table {
+          border: dashed;
+}

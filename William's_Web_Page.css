@@ -1,0 +1,44 @@
+
+ul{
+	list-style-type: none;
+	position: relative;
+	margin: -10px;
+	z-index: 2;
+	
+}
+
+li {
+	display: inline;
+	border: 2px solid #000000;
+	font-family: Futura, Tahoma, sans-serif;
+	color: black;
+	padding: 5px;
+	border-radius: 5px 5px;
+	background-color: #ffffff;
+}
+
+.headerimage  {
+	position: relative;
+	left:
+	right: 0px;
+	margin-bottom: 40px;
+	z-index: 1;
+	
+}
+
+.row {
+	border: 2px solid #000000;
+	padding-left: 240px;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	margin-bottom: 100px;
+}
+h1 {
+	text-align: center;
+}
+p {
+	text-align: center;
+}
+
+		
+	
